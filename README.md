@@ -1,0 +1,1 @@
+# NewsTrend-App
